@@ -1,0 +1,45 @@
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\bin\Debug\GameWindow.exe.config
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\bin\Debug\GameWindow.exe
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\bin\Debug\GameWindow.pdb
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\GameWindow.csprojResolveAssemblyReference.cache
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\MainWindow.baml
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\MainWindow.g.cs
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\App.g.cs
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\GameWindow_MarkupCompile.cache
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\GameWindow.g.resources
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\GameWindow.Properties.Resources.resources
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\GameWindow.csproj.GenerateResource.Cache
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\GameWindow.exe
+D:\!!Documents\Visual studio\projects\Lines v2.0\GameWindow\obj\Debug\GameWindow.pdb
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\bin\Debug\GameWindow.exe.config
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\GameWindow.exe
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\GameWindow.pdb
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\bin\Debug\GameWindow.exe
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\bin\Debug\GameWindow.pdb
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\GameWindow.csprojResolveAssemblyReference.cache
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\MainWindow.baml
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\MainWindow.g.cs
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\App.g.cs
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\GameWindow_MarkupCompile.cache
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\GameWindow.g.resources
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\GameWindow.Properties.Resources.resources
+d:\!!Documents\Visual studio\projects\Lines v2.1\GameWindow\obj\Debug\GameWindow.csproj.GenerateResource.Cache
+D:\!!Documents\Visual studio\projects\Lines v2.1 beta\GameWindow\bin\Debug\GameWindow.exe.config
+D:\!!Documents\Visual studio\projects\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.exe
+D:\!!Documents\Visual studio\projects\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.pdb
+d:\!!Documents\Visual studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\bin\Debug\GameWindow.exe.config
+d:\!!Documents\Visual studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.exe
+d:\!!Documents\Visual studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.pdb
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\bin\Debug\GameWindow.exe.config
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\bin\Debug\GameWindow.exe
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\bin\Debug\GameWindow.pdb
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\MainWindow.baml
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\MainWindow.g.cs
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\App.g.cs
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow_MarkupCompile.cache
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.g.resources
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.Properties.Resources.resources
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.csproj.GenerateResource.cache
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.csproj.CoreCompileInputs.cache
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.exe
+D:\Balthazar\projects\Visual Studio\projects\!Year1.2\Lines v2.1 beta\GameWindow\obj\Debug\GameWindow.pdb
